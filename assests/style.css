@@ -1,0 +1,24 @@
+h2{
+    text-align:center
+}
+
+img{
+    width: 100%;
+}
+.container {
+    position: relative;
+  }
+  /* Hide the images by default */
+.mySlides {
+    display: none;
+  }
+
+  
+/* Number text (1/1, 1/2, 1/3 etc) */
+.showImageNumber {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
