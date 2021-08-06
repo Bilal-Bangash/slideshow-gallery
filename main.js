@@ -1,0 +1,1 @@
+// JavaScript Functions and DOM manipulation in this file
